@@ -24,3 +24,5 @@ For this reason, the theming heroes of the Spicetify community have created a hu
 13. [m0squdev/dracula-spicetify-theme](https://github.com/m0squdev/dracula-spicetify-theme)
 14. [Adrien5902/SpicetifyCat](https://github.com/Adrien5902/SpicetifyCat)
 15. Insert your theme here!
+
+PINK
